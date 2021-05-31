@@ -44,7 +44,7 @@ namespace Primos
 					// El primer divisor posible es 2.
 					int divisor = 2;
 
-					// El ciclo continua mientras pueda ser primo
+					// El ciclo continúa mientras pueda ser primo
 					// y el divisor sea menor que el número que se
 					// está verificando. Usamos un ciclo pre-prueba
 					// ya que uan vez que confirmamos que es divisible
